@@ -55,10 +55,10 @@ Teknologi yang Digunakan:
 - Postman
 
 Link Repository Github:
-[isi link repository GitHub]
+https://github.com/Boozy7/IAE-UTS.git
 
 Link Postman Documentation:
-[isi link Postman Documentation]
+https://drive.google.com/file/d/1JVpLPjR1-XH03E76FwHl1kUuU3SLa5Bi/view?usp=sharing
 
 Link Video Demo:
-[isi link video demo]
+https://drive.google.com/drive/folders/1eMssuM9NbzDT7Zol5gONX1dFfBW7d9yE?usp=sharing
