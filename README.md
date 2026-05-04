@@ -325,9 +325,7 @@ Dokumentasi API dibuat menggunakan Postman Documentation.
 
 Link Postman Documentation:
 
-```text
-[isi link Postman Documentation]
-```
+https://drive.google.com/file/d/1JVpLPjR1-XH03E76FwHl1kUuU3SLa5Bi/view?usp=drive_link
 
 ## Video Demo
 
@@ -335,9 +333,7 @@ Video demo berisi penjelasan project, cara menjalankan setiap service, pengujian
 
 Link Video Demo:
 
-```text
-[isi link video demo]
-```
+https://drive.google.com/file/d/1QUd5PP33Pwv9DTpsJMPu6PO3fQQy4JNP/view?usp=drive_link
 
 ## Kesimpulan
 
